@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-07-13T16:25:53.763Z",
+  "updated": "2026-07-14T16:01:21.539Z",
   "genera": {
     "4b5139da5bb8d41f3e447c8e56b20d70507883100d81502898c6d5de1cd4ff86": {
       "a": true
@@ -11,6 +11,9 @@
   },
   "fotag": {
     "9b5fe8636616aeae31be20339bb9e3c18e5034a3483b6123023cc970ab195d4a": {
+      "a": true
+    },
+    "55ec6f6ccde0922a1f3f73169b8cb5d859ee906c8fa3bf1ca9cddb0a6d2817a7": {
       "a": true
     }
   }
