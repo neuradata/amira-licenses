@@ -1,12 +1,12 @@
 {
   "fotag": {
-    "version": "1.6.5",
+    "version": "1.6.6",
     "url": "https://www.fotag.app/update",
     "win": "https://downloads.fotag.app/Fotag-Setup.exe",
     "mac": "https://downloads.fotag.app/Fotag.dmg"
   },
   "genera": {
-    "version": "2.4.2",
+    "version": "2.4.7",
     "url": "https://www.fotag.app/update",
     "win": "https://downloads.fotag.app/Genera-Setup.exe",
     "mac": "https://downloads.fotag.app/Genera.dmg"
